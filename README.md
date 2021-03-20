@@ -19,3 +19,4 @@ Steps to run the application
 
 Features:-
 1. To use AWS bucket to upload the pdf files and store the location in the DB.
+2. We can create docker containers and deploy it. 
